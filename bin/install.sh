@@ -6,7 +6,7 @@ set -e
 # 定义当前路径为部署路径
 project_path=$(cd $(dirname "$0") && pwd)
 # git 仓库定制
-git_path="https://gitee.com/HuaSenJioJio/huasenjio-compose.git"
+git_path="https://github.com/huangchenghao98/huasen1.git"
 # git 仓库名称
 git_name="huasenjio-compose"
 # docker 镜像文件
